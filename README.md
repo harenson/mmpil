@@ -6,8 +6,8 @@
 
 ##Text
 
-######Reverse a String:
-    <del>Enter a string and the program will reverse it and print it out.</del>
+######<del>Reverse a String:</del>
+    Enter a string and the program will reverse it and print it out.
 
 ######PigLatin:
     Pig Latin is a game of alterations played on the English language game.
