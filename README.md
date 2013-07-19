@@ -7,94 +7,94 @@
 ##Text
 
 ######Reverse a String:
-   <del>Enter a string and the program will reverse it and print it out.</del>
+    <del>Enter a string and the program will reverse it and print it out.</del>
 
 ######PigLatin:
-   Pig Latin is a game of alterations played on the English language game.
-   To create the Pig Latin form of an English word the initial consonant sound
-   is transposed to the end of the word and an ay is affixed (Ex.: "banana"
-   would yield anana-bay). Read Wikipedia for more information on rules.
+    Pig Latin is a game of alterations played on the English language game.
+    To create the Pig Latin form of an English word the initial consonant sound
+    is transposed to the end of the word and an ay is affixed (Ex.: "banana"
+    would yield anana-bay). Read Wikipedia for more information on rules.
 
 ######CountVowels:
-   Enter a string and the program counts the number of vowels in the text.
-   For added complexity have it report a sum of each vowel found.
+    Enter a string and the program counts the number of vowels in the text.
+    For added complexity have it report a sum of each vowel found.
 
 ######Checkif Palindrome:
-   Checks if the string entered by the user is a palindrome.
-   That is that it reads the same forwards as backwards like “racecar”
+    Checks if the string entered by the user is a palindrome.
+    That is that it reads the same forwards as backwards like “racecar”
 
 ######CountWords in a String:
-   Counts the number of individual words in a string. For added complexity
-   read these strings in from a text file and generate a summary.
+    Counts the number of individual words in a string. For added complexity
+    read these strings in from a text file and generate a summary.
 
 ######TextEditor:
    Notepad style application that can open, edit, and save text documents.
    Add syntax highlighting and other features.
 
 ######RSSFeed Creator:
-   A program which can read in text from other sources and put it in RSS
-   or Atom news format for syndication.
+    A program which can read in text from other sources and put it in RSS
+    or Atom news format for syndication.
 
 ######Postit Notes Program:
-   A program where you can add text reminders and post them. You can have
-   the program also add popup reminders.
+    A program where you can add text reminders and post them. You can have
+    the program also add popup reminders.
 
 ######QuoteTracker (market symbols etc):
-   A program which can go out and check the current value of stocks for a list
-   of symbols entered by the user. The user can set how often the stocks are
-   checked and the program can show green up and red down arrows to show
-   which direction the stock value has moved.
+    A program which can go out and check the current value of stocks for a list
+    of symbols entered by the user. The user can set how often the stocks are
+    checked and the program can show green up and red down arrows to show
+    which direction the stock value has moved.
 
 ######Guestbook/ Journal:
-   A simple application that allows people to add comments or write journal
-   entries. It can allow comments or not and timestamps for all entries.
-   Could also be made into a shout box.
+    A simple application that allows people to add comments or write journal
+    entries. It can allow comments or not and timestamps for all entries.
+    Could also be made into a shout box.
 
 ######NewsTicker and Game Scores:
-   A program which sits on your desktop and aggregates news and game scores
-   from various sources on the net. It then scrolls them across the screen
-   on regular intervals.
+    A program which sits on your desktop and aggregates news and game scores
+    from various sources on the net. It then scrolls them across the screen
+    on regular intervals.
 
 ######FortuneTeller (Horoscope):
-   A program that checks your horoscope on various astrology sites and puts
-   them together for you each day.
+    A program that checks your horoscope on various astrology sites and puts
+    them together for you each day.
 
 ######Vigenere/ Vernam / Ceasar Ciphers:
-   Functions for encrypting and decrypting data messages. Then send them to
-   a friend.
+    Functions for encrypting and decrypting data messages. Then send them to
+    a friend.
 
 ######RandomGift Suggestions:
-   Enter various gifts for certain people when you think of them. When its
-   time to give them a gift (xmas, birthday, anniversary) it will randomly
-   pick one and perhaps places you can get it.
+    Enter various gifts for certain people when you think of them. When its
+    time to give them a gift (xmas, birthday, anniversary) it will randomly
+    pick one and perhaps places you can get it.
 
 ######Text to HTML Generator:
-   Converts text files into web HTML files and stylizes them. Great for making
-   online documentation of standard text documentation.
+    Converts text files into web HTML files and stylizes them. Great for making
+    online documentation of standard text documentation.
 
 ######CDKey Generator:
-   Generates a unique key for your applications to use based on some arbitrary
-   algorithm that you can specify. Great for software developers looking to
-   make shareware that can be activated.
+    Generates a unique key for your applications to use based on some arbitrary
+    algorithm that you can specify. Great for software developers looking to
+    make shareware that can be activated.
 
 ######RegexQuery Tool:
-   A tool that allows the user to enter a text string and then in a separate
-   control enter a regex pattern. It will run the regular expression against
-   the source text and return any matches or flag errors in the regular
-   expression.
+    A tool that allows the user to enter a text string and then in a separate
+    control enter a regex pattern. It will run the regular expression against
+    the source text and return any matches or flag errors in the regular
+    expression.
 
 
 
 ##Networking
 
 ######FTPProgram:
-   A file transfer program which can transfer files back and forth from a
-   remote web sever.
+    A file transfer program which can transfer files back and forth from a
+    remote web sever.
 
 ######GetAtomic Time from Internet Clock:
-   This program will get the true atomic time from an atomic time clock on the
-   Internet. There are various clocks across the world. Do a search for a list
-   of them.
+    This program will get the true atomic time from an atomic time clock on the
+    Internet. There are various clocks across the world. Do a search for a list
+    of them.
 
 ######ChatApplication (IRC or MSN Style):
     Create a chat application that can create simple chat rooms like on
