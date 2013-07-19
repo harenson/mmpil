@@ -6,7 +6,7 @@
 
 ##Text
 
-######<del>Reverse a String:</del>
+######<del>[Reverse a String:](https://github.com/harenson/mmpil/blob/master/text/reverse_string.py)</del>
     Enter a string and the program will reverse it and print it out.
 
 ######PigLatin:
@@ -28,8 +28,8 @@
     read these strings in from a text file and generate a summary.
 
 ######TextEditor:
-   Notepad style application that can open, edit, and save text documents.
-   Add syntax highlighting and other features.
+    Notepad style application that can open, edit, and save text documents.
+    Add syntax highlighting and other features.
 
 ######RSSFeed Creator:
     A program which can read in text from other sources and put it in RSS
