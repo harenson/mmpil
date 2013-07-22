@@ -15,7 +15,7 @@
     is transposed to the end of the word and an ay is affixed (Ex.: "banana"
     would yield anana-bay). Read Wikipedia for more information on rules.
 
-######CountVowels:
+######<del>[CountVowels:](https://github.com/harenson/mmpil/blob/master/text/count_vowels.py)</del>
     Enter a string and the program counts the number of vowels in the text.
     For added complexity have it report a sum of each vowel found.
 
