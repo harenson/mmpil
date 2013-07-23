@@ -4,6 +4,7 @@
 from text.reverse_string import reverse # returns a reversed string
 from text.count_vowels import count_vowels # count the vowels in a given text
 from text.palindrome import palindrome # check if a given word is palindrome
+from text.count_words import count_words # count the repetitions of every word in a given file
 
 def test_reverse_string():
     assert reverse('reversed') == 'desrever'
@@ -28,3 +29,12 @@ def test_palindrome():
     assert palindrome('RaDaR') == True
     assert palindrome('Was it a car or a cat I saw?') == True
     assert palindrome('') == False
+
+
+def test_count_words():
+    # for this test to work, you have to execute nosetests from the parent folder of "tests" folder
+    response = {'a': 1, 'count': 1, 'file': 1, 'for': 1, 'this': 1, 'is': 1, 'total_words': 10, 'project': 1, 'words': 1, 'test': 1, 'the': 1}
+    assert count_words('tests/count_words.txt') == response
+    assert count_words('tests/empty_count_words.txt') == {'total_words': 0}
+    response_string = 'The file *non_existing_file.txt* couldn\'t be opened.'
+    assert count_words('non_existing_file.txt') == response_string
