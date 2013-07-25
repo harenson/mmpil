@@ -60,7 +60,18 @@ def test_store():
     
     st.rent_movie(mov, acc1)
     st.rent_movie(mov2, acc1)
-    assert len(st.rented_movies) == 2
+    assert len(st.rented_movies) == 1
+    assert len(st.rented_movies[acc1]) == 2 # movies rented by this account
     st.rent_movie(mov, acc2)
     st.rent_movie(mov2, acc2)
-    assert len(st.rented_movies) == 4
+    assert len(st.rented_movies) == 2
+    assert len(st.rented_movies[acc2]) == 2 # movies rented by this account
+    assert len(st.overdue_accounts()) == 0
+
+    # intentionally change the due_to_return date to evaluate the movie.overdue_accounts() method
+    from time import time, strftime, gmtime
+    for acc in st.rented_movies:
+        for mov in st.rented_movies[acc]:
+            mov['due_to_return'] = strftime('%Y-%m-%d', gmtime(time() - 86400 * 2))
+
+    assert len(st.overdue_accounts()) == 2 # 2 overdue accounts after the modification
