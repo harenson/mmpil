@@ -1,7 +1,7 @@
-#Martyr2's Mega Project Ideas List
+#Martyr2's Mega Project Ideas List [>](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
-[Martyr2's Mega Project Ideas List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
-
+**Categories:**
+[Text](#text) ~ [Networking](#networking) ~ [Classes](#classes) ~ [Threading](#threading) ~ [Web](#web) ~ [Files](#files) ~ [Databases](#databases) ~ [Graphics and Multimedia](#graphics-and-multimedia) ~ [Games](#games)
 
 
 ##Text
@@ -85,7 +85,7 @@
 
 
 
-##Networking
+##Networking [^][top]
 
 ######FTPProgram:
     A file transfer program which can transfer files back and forth from a
@@ -155,7 +155,7 @@
 
 
 
-##Classes
+##Classes [^][top]
 
 ######<del>[ProductInventory Project:](https://github.com/harenson/mmpil/blob/master/classes/product_inventory/)</del>
     Create an application which manages an inventory of products. Create a
@@ -196,7 +196,7 @@
 
 
 
-##Threading
+##Threading [^][top]
 
 ######CreateA Progress Bar for Downloads:
     Create a progress bar for applications that can keep track of a download in
@@ -222,7 +222,7 @@
 
 
 
-##Web
+##Web [^][top]
 
 ######WYSIWG(What you see is what you get) Editor:
     Create an editor online which allows people to move around elements, create
@@ -310,7 +310,7 @@
 
 
 
-##Files
+##Files [^][top]
 
 ######QuizMaker:
     Make an application which takes various questions form a file, picked
@@ -397,7 +397,7 @@
 
 
 
-##Databases
+##Databases [^][top]
 
 ######SQLQuery Analyzer:
     A utility application which a user can enter a query and have it run
@@ -474,7 +474,7 @@
 
 
 
-##Graphics and Multimedia
+##Graphics and Multimedia [^][top]
 
 ######SlideShow:
     Make an application that shows various pictures in a slide show format. For
@@ -560,7 +560,7 @@
 
 
 
-##Games
+##Games [^][top]
 
 ######Battleship:
     Create two game boards and let each player place a number of war ships.
@@ -590,3 +590,5 @@
     Get your frog across the river and lanes of traffic by either jumping on
     logs and lily pads rushing by at different speeds or avoid the automobiles
     which are also moving at various speeds. Based on the old arcade game.
+
+[top]:#martyr2s-mega-project-ideas-list "top"
