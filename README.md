@@ -1,7 +1,7 @@
 #Martyr2's Mega Project Ideas List [>](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
 **Categories:**
-[Text](#text) ~ [Networking](#networking) ~ [Classes](#classes) ~ [Threading](#threading) ~ [Web](#web) ~ [Files](#files) ~ [Databases](#databases) ~ [Graphics and Multimedia](#graphics-and-multimedia) ~ [Games](#games)
+[Text](#text) ~ [Networking](#networking-) ~ [Classes](#classes-) ~ [Threading](#threading-) ~ [Web](#web-) ~ [Files](#files-) ~ [Databases](#databases-) ~ [Graphics and Multimedia](#graphics-and-multimedia-) ~ [Games](#games-)
 
 
 ##Text
